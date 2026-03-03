@@ -5,10 +5,10 @@ using WebApiProject.Models.Enums;
 
 public class Order
 {
+    /*
     [BsonId]
     [BsonRepresentation(BsonType.ObjectId)]
-    [BsonIgnoreIfDefault] // Id JSON'da yoksa Mongo otomatik üretir
-    public string Id { get; set; }
+    public string? Id { get; set; }*/
 
     [BsonRepresentation(BsonType.String)]
     public PlatformType Platform { get; set; }
