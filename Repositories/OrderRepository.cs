@@ -20,6 +20,7 @@ public class OrderRepository : IOrderRepository
     {
         await _orderCollection.InsertOneAsync(order);
     }
+
     public async Task<List<Order>> GetAllOrdersAsync()
     {
         return await _orderCollection.Find(_ => true).ToListAsync();
