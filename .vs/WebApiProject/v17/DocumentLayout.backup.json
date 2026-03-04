@@ -7,6 +7,30 @@
       "RelativeMoniker": "D:0:0:{3CE41550-FCFD-4689-B931-CC46BCD9DD63}|WebApiProject.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3CE41550-FCFD-4689-B931-CC46BCD9DD63}|WebApiProject.csproj|c:\\users\\zeyne\\desktop\\task_1\\webapiproject\\siparis-performans-analizi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE41550-FCFD-4689-B931-CC46BCD9DD63}|WebApiProject.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE41550-FCFD-4689-B931-CC46BCD9DD63}|WebApiProject.csproj|c:\\users\\zeyne\\desktop\\task_1\\webapiproject\\siparis-performans-analizi\\repositories\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE41550-FCFD-4689-B931-CC46BCD9DD63}|WebApiProject.csproj|solutionrelative:repositories\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE41550-FCFD-4689-B931-CC46BCD9DD63}|WebApiProject.csproj|c:\\users\\zeyne\\desktop\\task_1\\webapiproject\\siparis-performans-analizi\\repositories\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE41550-FCFD-4689-B931-CC46BCD9DD63}|WebApiProject.csproj|solutionrelative:repositories\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE41550-FCFD-4689-B931-CC46BCD9DD63}|WebApiProject.csproj|c:\\users\\zeyne\\desktop\\task_1\\webapiproject\\siparis-performans-analizi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE41550-FCFD-4689-B931-CC46BCD9DD63}|WebApiProject.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE41550-FCFD-4689-B931-CC46BCD9DD63}|WebApiProject.csproj|c:\\users\\zeyne\\desktop\\task_1\\webapiproject\\siparis-performans-analizi\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE41550-FCFD-4689-B931-CC46BCD9DD63}|WebApiProject.csproj|solutionrelative:repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE41550-FCFD-4689-B931-CC46BCD9DD63}|WebApiProject.csproj|c:\\users\\zeyne\\desktop\\task_1\\webapiproject\\siparis-performans-analizi\\models\\dtos\\summaryreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE41550-FCFD-4689-B931-CC46BCD9DD63}|WebApiProject.csproj|solutionrelative:models\\dtos\\summaryreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3CE41550-FCFD-4689-B931-CC46BCD9DD63}|WebApiProject.csproj|c:\\users\\zeyne\\desktop\\task_1\\webapiproject\\siparis-performans-analizi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CE41550-FCFD-4689-B931-CC46BCD9DD63}|WebApiProject.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +54,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\zeyne\\Desktop\\task_1\\WebApiProject\\Siparis-Performans-Analizi\\Repositories\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Repositories\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\zeyne\\Desktop\\task_1\\WebApiProject\\Siparis-Performans-Analizi\\Repositories\\IOrderService.cs",
+              "RelativeToolTip": "Repositories\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:40:01.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zeyne\\Desktop\\task_1\\WebApiProject\\Siparis-Performans-Analizi\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\zeyne\\Desktop\\task_1\\WebApiProject\\Siparis-Performans-Analizi\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:39:44.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zeyne\\Desktop\\task_1\\WebApiProject\\Siparis-Performans-Analizi\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\zeyne\\Desktop\\task_1\\WebApiProject\\Siparis-Performans-Analizi\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:39:17.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SummaryReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\zeyne\\Desktop\\task_1\\WebApiProject\\Siparis-Performans-Analizi\\Models\\DTOs\\SummaryReportDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\SummaryReportDto.cs",
+              "ToolTip": "C:\\Users\\zeyne\\Desktop\\task_1\\WebApiProject\\Siparis-Performans-Analizi\\Models\\DTOs\\SummaryReportDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\SummaryReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:38:54.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\zeyne\\Desktop\\task_1\\WebApiProject\\Siparis-Performans-Analizi\\Repositories\\OrderService.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderService.cs",
+              "ToolTip": "C:\\Users\\zeyne\\Desktop\\task_1\\WebApiProject\\Siparis-Performans-Analizi\\Repositories\\OrderService.cs",
+              "RelativeToolTip": "Repositories\\OrderService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:38:23.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\zeyne\\Desktop\\task_1\\WebApiProject\\Siparis-Performans-Analizi\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "Models\\OrderItem.cs",
@@ -38,12 +127,11 @@
               "RelativeToolTip": "Models\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T18:52:27.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T18:52:27.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zeyne\\Desktop\\task_1\\WebApiProject\\Siparis-Performans-Analizi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -51,8 +139,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T18:45:39.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T18:45:39.834Z"
             },
             {
               "$type": "Document",
@@ -62,9 +149,22 @@
               "RelativeDocumentMoniker": "Models\\Order.cs",
               "ToolTip": "C:\\Users\\zeyne\\Desktop\\task_1\\WebApiProject\\Siparis-Performans-Analizi\\Models\\Order.cs",
               "RelativeToolTip": "Models\\Order.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T18:42:04.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\zeyne\\Desktop\\task_1\\WebApiProject\\Siparis-Performans-Analizi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\zeyne\\Desktop\\task_1\\WebApiProject\\Siparis-Performans-Analizi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:41:34.332Z",
               "EditorCaption": ""
             }
           ]
